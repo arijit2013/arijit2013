@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arijit2013
 - 👀 I’m interested in ...Mobile & Web Development
-- 🌱 I’m currently learning ...Flutter & React
+- 🌱 I’m currently learning ...Cloud & AWS
 - 💞️ I’m looking to collaborate on ...Project related works
 - 📫 How to reach me ...arijit.das76@gmail.com/+919330292981
 
